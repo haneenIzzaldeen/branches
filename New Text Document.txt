@@ -7,13 +7,3 @@ changing locally
 changing from github
 
 hello again
-
-hello
-
-
-hello
-
-
-hello
-
-hello
