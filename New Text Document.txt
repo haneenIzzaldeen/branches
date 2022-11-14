@@ -7,3 +7,14 @@ changing locally
 changing from github
 
 hello again
+<<<<<<< HEAD
+=======
+
+hello
+
+
+hello
+
+
+hello
+>>>>>>> b2e5e8ec1d20d35bdfb9111306e1c3b53cf00f41
